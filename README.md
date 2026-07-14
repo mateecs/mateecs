@@ -1,7 +1,10 @@
-## Hi there 👋
+## Hi there, I'm Matee 👋
 
-<!--
-**mateecs/mateecs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Full Stack developer and AI ENgineer based in Islamabad, Pakistan and I am passionate about crafting digital Experiences.
+
+
+## Tech Stack:
+
 
 Here are some ideas to get you started:
 
