@@ -3,6 +3,11 @@
 I am a Full Stack developer and AI ENgineer based in Islamabad, Pakistan and I am passionate about crafting digital Experiences.
 
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y2ZTh6N3ZnbWR0YTY4OHJ2OHFtcDJuZm80dHNoY29scGx6cjN2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding Animation" />
+</div>
+
+
 ### Tech Stack & Tools
 
 * **Frontend Development:** `React` `Next` `Material-UI` `TypeScript` `Flutter`
