@@ -10,7 +10,7 @@ I am a Full Stack developer and AI ENgineer based in Islamabad, Pakistan and I a
 
 ### Tech Stack & Tools
 
-* **Frontend Development:** `React` `Next` `Material-UI` `TypeScript` `Flutter`
+* **Frontend Development:** `React` `Next` `TypeScript`
 * **Version Control:** `Git` `GitLab`
 * **Backend Development:** `Firebase` `Node` `Nest`
 * **Testing:** `Postman`
