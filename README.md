@@ -1,6 +1,6 @@
 ## Hi there, I'm Matee 👋
 
-I am a Full Stack developer and AI ENgineer based in Islamabad, Pakistan and I am passionate about crafting digital Experiences.
+Software Engineer with experience in Artificial Intelligence, Computer Vision, Full-Stack Development, and Data Analytics. Passionate about building intelligent systems that transform data into actionable insights. Experienced in backend development, cloud deployment, and AI-powered applications.
 
 
 <div align="right">
