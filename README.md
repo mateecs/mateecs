@@ -12,9 +12,9 @@ Portfolio Website: https://matee-portfolio.netlify.app/
 
 * **Frontend Development:** `React` `Next` `TypeScript`
 * **Version Control:** `Git` `GitLab`
-* **Backend Development:** `Firebase` `Node` `Nest`
-* **Testing:** `Postman`
-* **Other:** `Python` `C++` `AWS` `PosgreSQL`
+* **Backend Development:** `Firebase` `Node` `FASTAPI` `Flask` `Django`
+* **Testing:** `Postman`  `Pytest`
+* **Other:** `Python` `C++` `AWS (ECS Fargate, SQS, S3, RDS, VPC, IAM, CloudWatch) ` `PosgreSQL`
 
 ---
 ### Badges & Achievements:
