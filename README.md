@@ -17,6 +17,10 @@ Portfolio Website: https://matee-portfolio.netlify.app/
 * **Other:** `Python` `C++` `AWS` `PosgreSQL`
 
 ---
+### Badges & Achievements:
+<div align="left">
+<img width="100" height="100" alt="aws-simulearn-cloud-practitioner-training-badge" src="https://github.com/user-attachments/assets/e55abd1d-74b0-4a24-a945-5ea73595a21f" />
+</div>
 
 ### Connect With Me:
 
